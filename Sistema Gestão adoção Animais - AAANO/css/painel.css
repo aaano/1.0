@@ -1,0 +1,33 @@
+body {
+    background: url(../imgs/bgadm.png);   
+    padding-top: 80px;
+    
+}
+
+a {
+    
+    color:#ebebeb; 
+    
+    
+}
+
+a:hover{
+    
+    color:#ebebeb;
+   
+}
+ul:link {
+    color:#ed1c24;
+    }
+
+
+ul :visited {color:#ebebeb;
+    }
+
+
+.navbar-default
+{
+    
+     
+     height: 65px;
+}
